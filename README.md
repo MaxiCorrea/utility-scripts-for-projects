@@ -1,4 +1,4 @@
-# Scripts
+# Utility Scripts for Projects
 
 Coleccion de scripts utilitarios para automatizar tareas de desarrollo.
 
